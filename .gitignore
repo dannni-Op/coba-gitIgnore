@@ -1,0 +1,6 @@
+config.txt
+# untuk file
+data/
+# untuk folder
+*.exe
+# untuk semua yang berekstensi exe
